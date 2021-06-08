@@ -74,6 +74,6 @@ public class FunctionalInterfaces {
     Double mul2=sc.nextDouble();        
     BiFunction<Integer,Double,Double> bifun=(a,b)->a*b;
     System.out.println("Multiplication of numbers you entered is: "+bifun.apply(mul1, mul2));
-   
+  
 }
 }
