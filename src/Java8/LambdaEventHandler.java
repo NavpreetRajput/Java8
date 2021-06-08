@@ -36,7 +36,7 @@ public class LambdaEventHandler extends JFrame {
     }
 
     public static void main(String[] args) {
-
+        // Calling the Constructor
         new LambdaEventHandler();
 
     }
