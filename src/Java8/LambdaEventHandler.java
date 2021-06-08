@@ -11,7 +11,7 @@ public class LambdaEventHandler extends JFrame {
     public LambdaEventHandler() {
         setTitle("Button Action with Lambda Expression");
         setSize(500, 400);
-        setVisible(true);
+        setVisible(true); 
         // setLayout(new FlowLayout());
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 
